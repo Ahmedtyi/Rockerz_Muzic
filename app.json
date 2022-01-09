@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/S780821/Rockerz_Muzic",
+    "repository": "https:",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
